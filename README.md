@@ -11,6 +11,6 @@
         /src/js/style.css
 
 #   Server部署
-     <a href="deploy.md" target="_blank">Server部署</a>
+<a href="deploy.md" target="_blank">Server部署</a>
 #   演示站点
-    <a href="https://carseason.github.io/chat" target="_blank">演示网站</a>
+<a href="https://carseason.github.io/chat" target="_blank">演示网站</a>
